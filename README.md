@@ -18,7 +18,7 @@ predictions.
 - Streamlit
 - Pickle
 
-- 
+
 ## project/
 │
 ├── models/
@@ -34,7 +34,7 @@ predictions.
 ├── requirements.txt         # Python dependencies
 └── README.md                # Project documentation
 
-- 
+
 ##  How the Model Works
 Input Features:
 - Avg. Session Length
@@ -43,7 +43,7 @@ Input Features:
 Target Variable:
 - Yearly Amount Spent
 
-- 
+  
 ## Model:
 - ElasticNet Regression with GridSearchCV for hyperparameter tuning.
  Running the Project Locally

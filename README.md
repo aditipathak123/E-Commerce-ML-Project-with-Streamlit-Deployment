@@ -10,7 +10,7 @@ predictions.
 - Train/test split with scaling
 - Multiple regression models (ElasticNet, Linear, Ridge, etc.)
 - Streamlit web app for deployment
-- 
+  
 ## Technologies Used
 - Python
 - Pandas, NumPy
@@ -45,8 +45,9 @@ Target Variable:
 
   
 ## Model:
-- ElasticNet Regression with GridSearchCV for hyperparameter tuning.
- Running the Project Locally
+- ElasticNet Regression with  GridSearchCV for hyperparameter tuning.
+  
+Running the Project Locally
 
 ## Future Improvements
 - Add more features (Time on Website, Location)
